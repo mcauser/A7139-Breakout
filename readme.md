@@ -10,6 +10,12 @@ Only component you need is 1x7 straight or right-angle 2.54mm headers.
 
 Designed using [KiCad 5](http://kicad-pcb.org/).
 
+# OSH Park Purple PCBs
+
+![bare.jpg](images/bare.jpg)
+
+![soldered.jpg](images/soldered.jpg)
+
 # Models
 
 ![3d-back.jpg](images/3d-back.jpg)
@@ -23,6 +29,8 @@ Designed using [KiCad 5](http://kicad-pcb.org/).
 # A7139 module
 
 ![module.jpg](images/module.jpg)
+
+![footprint.jpg](images/footprint.jpg)
 
 # Links
 
