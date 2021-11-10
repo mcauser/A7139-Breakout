@@ -8,7 +8,7 @@ Order the board from OSH Park here: <https://oshpark.com/shared_projects/94JruTP
 
 Only component you need is 1x7 straight or right-angle 2.54mm headers.
 
-Designed using [KiCad 5](http://kicad-pcb.org/).
+Designed using [KiCad 5](http://kicad.org/).
 
 # OSH Park Purple PCBs
 
